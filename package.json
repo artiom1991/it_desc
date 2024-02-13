@@ -1,0 +1,12 @@
+{
+  "name": "web_desctop",
+  "version": "1.0.0",
+  "description": "Web application with multiple tools\r text-editor,\r image-editor,\r calculators,\r ................",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
